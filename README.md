@@ -21,8 +21,6 @@ Use a foreach loop to flip all the cards in the hand over. Do NOT hard-code 5 as
 
 Use a foreach loop (not a for loop) to print all the cards in the hand (remember, the Card class exposes a Print method).
 
-Exercise Solution
-
 ## Getting Started
 
 n/a
