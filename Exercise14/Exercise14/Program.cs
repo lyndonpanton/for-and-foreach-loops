@@ -1,10 +1,16 @@
-﻿namespace Exercise14
+﻿using ConsoleCards;
+
+namespace Exercise14
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            // problem 1
+            Deck deck = new Deck();
+            List<Card> hand = new List<Card>();
+
+            deck.Shuffle();
         }
     }
 }
